@@ -1,0 +1,12 @@
+/Users/fhayedavila/Projects/Builder/Builder/obj/Debug/netcoreapp3.1/Builder.csprojAssemblyReference.cache
+/Users/fhayedavila/Projects/Builder/Builder/obj/Debug/netcoreapp3.1/Builder.AssemblyInfoInputs.cache
+/Users/fhayedavila/Projects/Builder/Builder/obj/Debug/netcoreapp3.1/Builder.AssemblyInfo.cs
+/Users/fhayedavila/Projects/Builder/Builder/obj/Debug/netcoreapp3.1/Builder.csproj.CoreCompileInputs.cache
+/Users/fhayedavila/Projects/Builder/Builder/bin/Debug/netcoreapp3.1/Builder.deps.json
+/Users/fhayedavila/Projects/Builder/Builder/bin/Debug/netcoreapp3.1/Builder.runtimeconfig.json
+/Users/fhayedavila/Projects/Builder/Builder/bin/Debug/netcoreapp3.1/Builder.runtimeconfig.dev.json
+/Users/fhayedavila/Projects/Builder/Builder/bin/Debug/netcoreapp3.1/Builder.dll
+/Users/fhayedavila/Projects/Builder/Builder/bin/Debug/netcoreapp3.1/Builder.pdb
+/Users/fhayedavila/Projects/Builder/Builder/obj/Debug/netcoreapp3.1/Builder.dll
+/Users/fhayedavila/Projects/Builder/Builder/obj/Debug/netcoreapp3.1/Builder.pdb
+/Users/fhayedavila/Projects/Builder/Builder/obj/Debug/netcoreapp3.1/Builder.genruntimeconfig.cache

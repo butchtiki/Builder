@@ -1,0 +1,55 @@
+﻿<Properties StartupConfiguration="{1682DCAD-F220-4CD1-95A3-DFB55A7947CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../BuilderTest/PlayerTest.cs">
+    <Files>
+      <File FileName="Program.cs" Line="15" Column="6" />
+      <File FileName="PlayerBuilder.cs" Line="33" Column="6" />
+      <File FileName="Player.cs" />
+      <File FileName="Parts.cs" Line="3" Column="57" />
+      <File FileName="../BuilderTest/Stubs/StubParts.cs" Line="11" Column="1" />
+      <File FileName="Mount.cs" Line="1" Column="1" />
+      <File FileName="Human.cs" Line="30" Column="10" />
+      <File FileName="../BuilderTest/HumanTest.cs" Line="37" Column="1" />
+      <File FileName="Body.cs" Line="1" Column="1" />
+      <File FileName="Horse.cs" Line="7" Column="1" />
+      <File FileName="Elf.cs" Line="7" Column="13" />
+      <File FileName="Unicorn.cs" Line="11" Column="10" />
+      <File FileName="../BuilderTest/HorseTest.cs" Line="1" Column="22" />
+      <File FileName="../BuilderTest/ElfTest.cs" Line="1" Column="22" />
+      <File FileName="../BuilderTest/Unicorn.cs" Line="15" Column="44" />
+      <File FileName="IReact.cs" Line="1" Column="1" />
+      <File FileName="React.cs" Line="12" Column="49" />
+      <File FileName="../BuilderTest/PlayerTest.cs" Line="17" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Builder" expanded="True">
+            <Node name="Builder" expanded="True" />
+            <Node name="BuilderTest" expanded="True">
+              <Node name="Stubs" expanded="True" />
+              <Node name="PlayerTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Builder" expanded="True" selected="True">
+            <Node name="BuilderTest" expanded="True">
+              <Node name="BuilderTest" expanded="True">
+                <Node name="PlayerBuilderTest" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Builder PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
